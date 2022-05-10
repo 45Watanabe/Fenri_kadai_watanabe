@@ -4,11 +4,11 @@
  リクルートWEBサービスのホットペッパーグルメサーチAPIを使用して、    
  現在地付近のレストラン情報を検索するスマートフォンアプリ    
  
- UIKit版
- GourmandToEat(UIKit)
+ UIKit版.   
+ ToEatGourmand(UIKit).   
  
- SwiftUI版
- Gourmand(SwiftUI)
+ SwiftUI版.   
+ Gourmand(SwiftUI).   
  
 ### Features
  
