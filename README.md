@@ -1,53 +1,31 @@
 # Fenri_kadai_watanabe
 
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+### Gourmand To Eat
+ リクルートWEBサービスのホットペッパーグルメサーチAPIを使用して、
+ 現在地付近のレストラン情報を検索するスマートフォンアプリ
  
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+ UIKit版
+ GourmandToEat(UIKit)
  
-"hoge"が何かを簡潔に紹介する
- 
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+ SwiftUI版
+ Gourmand(SwiftUI)
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+ボタンワンタップで付近のレストランを見つけられます
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
- 
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-bash
-pip install huga_package
+ 開発言語: Swift 5.6
+ 開発環境: Xcode 13.3.1
+ 動作対象OS: iOS 15.3.1
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
- 
-# Note
- 
-注意点などがあれば書く
- 
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-# License
-ライセンスを明示する
+画面上部、右にあるボタンで、
+検索するレストランの「最大件数」と
+現在位置を基準とした「検索範囲」を
+指定して🔍(検索)ボタンを押せば、周囲のレストランを見つけられます！
+
+検索結果が表示される画面の(i)ボタンを押すと、
+もっと詳しくお店の情報がみれます。
