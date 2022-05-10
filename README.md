@@ -10,17 +10,17 @@
  SwiftUI版
  Gourmand(SwiftUI)
  
-# Features
+### Features
  
 ボタンワンタップで付近のレストランを見つけられます
  
-# Requirement
+### Requirement
  
  開発言語: Swift 5.6
  開発環境: Xcode 13.3.1
  動作対象OS: iOS 15.3.1
  
-# Usage
+### Usage
  
 画面上部、右にあるボタンで、
 検索するレストランの「最大件数」と
